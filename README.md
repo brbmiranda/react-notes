@@ -2,7 +2,7 @@
 
 # Executando:
 
--npm install
--npm run dev
+- npm install
+- npm run dev
 
 Acesse http://localhost:5173 para visualizar a aplicação.
