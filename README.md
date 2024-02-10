@@ -2,9 +2,9 @@
 
 Desenvolvimento de uma aplicação front-end em ReactJS de notas de audio que se convertem em texto, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, uso de APIs da Web como Web Storage e Web Speech.
 
-# Executando:
+# Executando no terminal:
 
 - npm install
 - npm run dev
 
-Acesse http://localhost:5173 para visualizar a aplicação.
+Acesse http://localhost:5173 pelo navegador para visualizar a aplicação.
